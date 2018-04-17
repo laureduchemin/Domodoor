@@ -1,9 +1,12 @@
 package model;
 
+import lejos.hardware.port.Port;
+
 public class Moteur {
 	
 	private StatePorte porte;
 	
+
 	public void pousser() {
 	}
 	
